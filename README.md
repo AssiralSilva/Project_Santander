@@ -10,4 +10,4 @@ Tecnologias usadas:
   - https://cover-santander.netlify.app/
 </p>
 
-<img src="https://github.com/AssiralSilva/Project_Santander/blob/master/assets/Project-santander-r%C3%A9plica.png?raw=true"/>
+![Project-santander-réplica](https://github.com/AssiralSilva/Project_Santander/assets/92412733/e8790e2a-401d-495a-b56c-4112adced89b)
